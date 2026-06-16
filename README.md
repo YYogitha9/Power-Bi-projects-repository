@@ -77,13 +77,6 @@ A range of visualisations were built to effectively communicate insights:
 
 ---
 
-## 🧠 Data Storytelling
-- Designed dashboards with a **clear and logical narrative structure**
-- Used **visual hierarchy, colour, and layout** to highlight key insights
-- Enabled **interactive exploration** through slicers and filters (e.g., region, category, time)
-- Tailored reports for **non-technical stakeholders and business users**
-
----
 
 ## 📊 Dashboard Features
 
