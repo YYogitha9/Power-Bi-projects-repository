@@ -95,40 +95,20 @@ A range of visualisations were built to effectively communicate insights:
 
 ---
 
-## 🔗 Power BI Report
-👉 **View the report here:**  
-*(Add Power BI Service / screenshot link if available)*
-
----
-
+### 🔗 Power BI Report
 ## 🖼️ Dashboard Preview
-
-### 📌 Sales Overview
-images/sales-overview.png
-
-### 📌 Regional Performance
-images/regional-performance.png
-
-### 📌 Product Analysis
-images/product-analysis.png
-
----
-
-## 🔑 Key Outcomes
-- ✅ Built **end-to-end BI solution** from data cleaning to reporting  
-- ✅ Applied **Power Query, DAX, and data modelling techniques**  
-- ✅ Delivered **actionable insights through interactive dashboards**  
-- ✅ Strengthened skills in **Power BI, data storytelling, and analytics**  
-
----
+👉 **View the report here:**  
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiNzc1MTA2MjEtMWQ4Ny00MTg3LTg0MzMtMTUwZjg0NWRhMzU5IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 
----
 
-## 📎 Project Context
-📅 Completed during **Data Technician Bootcamp**  
-📊 Focus: Power BI, Data Analysis, Business Intelligence  
 
----
+
+
+
+
+
+
+
 
 
